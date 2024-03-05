@@ -1,0 +1,10 @@
+1. React è una libreria javascript open-source utilizzata per la creazione di interfacce utente dinamiche e interattive
+2. FALSO. è una libreria
+3. Contiene molte informazioni utili quali l'elenco di tutte le dipendenze richieste dall'applicazione
+4. FALSO. Ci sono altri modi per creare un'applicazione react
+5. npx create-react-app test
+6. E' un blocco di logica/contenuto riutilizzabile all'interno dell'applicazione
+7. VERO
+8. VERO
+9. FALSO. Le props possono essere passate in entrambe le direzioni, da un componente genitore a un componente figlio e viceversa
+10. Possono essere recuperate all'interno dell'oggetto 'this', dentro un sotto-oggetto chiamato 'props'
